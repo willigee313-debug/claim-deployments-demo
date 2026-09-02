@@ -33,3 +33,4 @@ bun dev
 ```
 
 Once the server is running, open [http://localhost:3000](http://localhost:3000) in your browser to view the demo application.
+
